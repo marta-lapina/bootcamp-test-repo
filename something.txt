@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-this is a sample test file un ta ir
-=======
-this is a sample test file
-and this is another lin......help
-where is everybody?
->>>>>>> 17f2f8527838580663c25a5753ecf555e39f5046
