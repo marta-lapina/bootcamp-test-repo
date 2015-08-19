@@ -1,3 +1,4 @@
 Cita lietotaja izmainas
 
 otrais izmainas, kuras merge conflict taisa.
+asdfasdfasdf
